@@ -1,0 +1,11 @@
+C:\Users\vital\source\repos\tic-tac-toe lab2\tic-tac-toe lab2\obj\Debug\tic-tac-toe lab2.csproj.AssemblyReference.cache
+C:\Users\vital\source\repos\tic-tac-toe lab2\tic-tac-toe lab2\obj\Debug\tic-tac-toe lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vital\source\repos\tic-tac-toe lab2\tic-tac-toe lab2\obj\Debug\tic_tac_toe_lab2.Form1.resources
+C:\Users\vital\source\repos\tic-tac-toe lab2\tic-tac-toe lab2\obj\Debug\tic_tac_toe_lab2.Properties.Resources.resources
+C:\Users\vital\source\repos\tic-tac-toe lab2\tic-tac-toe lab2\obj\Debug\tic-tac-toe lab2.csproj.GenerateResource.cache
+C:\Users\vital\source\repos\tic-tac-toe lab2\tic-tac-toe lab2\obj\Debug\tic-tac-toe lab2.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\tic-tac-toe lab2\tic-tac-toe lab2\bin\Debug\tic-tac-toe lab2.exe.config
+C:\Users\vital\source\repos\tic-tac-toe lab2\tic-tac-toe lab2\bin\Debug\tic-tac-toe lab2.exe
+C:\Users\vital\source\repos\tic-tac-toe lab2\tic-tac-toe lab2\bin\Debug\tic-tac-toe lab2.pdb
+C:\Users\vital\source\repos\tic-tac-toe lab2\tic-tac-toe lab2\obj\Debug\tic-tac-toe lab2.exe
+C:\Users\vital\source\repos\tic-tac-toe lab2\tic-tac-toe lab2\obj\Debug\tic-tac-toe lab2.pdb
